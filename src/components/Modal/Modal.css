@@ -60,3 +60,5 @@
     transform: translateY(-100%);
   }
 }
+
+/* note how code in this instance would stay in the dom if using animation -- can slow app down */
